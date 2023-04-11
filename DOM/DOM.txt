@@ -1,0 +1,29 @@
+document Object Model(modelo de onjestos en documentos)
+Manipulacion de los elementos de html y css
+todas la etiquetas son elementos y tienen funciones y propiedades 
+tienen propiedades y elemntos para hacer en html lo que yo quiera por medio de javascript 
+Nodos= etiquetas de html
+eventos=acciones que yo hago con esas etiquetas 
+
+*Nodos= Manipulacion de los elementos:
+    Funciones de los nodos= 
+    *seleccionar elementos= 
+       *querySelector()
+       *querySelectorAll()
+    *crear elementos
+       *createElemnt()
+       *CreateTextNode()
+    *Agregar etiquetas dentro de otras 
+       *AppendChild()
+    *Agregar Atributos
+       *setAttribute()
+    *eliminar un elementos
+       *remove()
+    *ubicar un elemento en html
+       *insertAdjacentElement()
+
+ubicaciones
+<p>   texto </p>
+beforebegin  afterbegin beforeend aftorend
+    
+*Elementos= acciones que se pueden realizar con los elementos
